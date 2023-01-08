@@ -1,0 +1,1 @@
+Making a discord bot to assist with javascript knowledge
