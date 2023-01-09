@@ -19,5 +19,9 @@
   "homepage": "https://github.com/Meapers0/Practice-Discord-Bot#readme",
   "devDependencies": {
     "eslint": "^8.31.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
   }
 }
